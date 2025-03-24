@@ -77,3 +77,9 @@ Commit your changes (git commit -m "Added feature XYZ").
 Push to the branch (git push origin feature-name).
 
 Open a Pull Request.
+
+License
+This project is licensed under the MIT License.
+
+Author
+RAKESH M - [rakeshgm2024@gmail.com]
